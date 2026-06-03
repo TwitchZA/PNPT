@@ -2,7 +2,7 @@
 
 ## Attacks
 
-- [2. Scanning & Enumeration](Scanning with Nmap.md)
+- [2. Scanning & Enumeration](/Nmap.md)
 - [Kerberoasting](Attacks/Kerberoasting/README.md)
 - [BloodHound](Attacks/BloodHound/README.md)
 
