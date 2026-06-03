@@ -16,9 +16,10 @@ Step 2 Save targets to file
 Step 3 
 - sudo mousepad /etc/responder/Responder.conf
 
--- Under Servers to start
----turn off SMB
----turn off HTTP
+Under Servers to start
+-turn off SMB
+-turn off HTTP
+
 <img width="940" height="367" alt="image" src="https://github.com/user-attachments/assets/29972107-174e-46cd-b1c2-941d1976344b" />
 
 Step 4 Run Responder
