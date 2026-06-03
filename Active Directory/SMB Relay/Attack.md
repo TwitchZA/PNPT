@@ -3,14 +3,16 @@
 Step 1 Check if SMB Relay is Possible
 
 nmap nmap –script=smb2-security-mode.nse -p445 <IP Address>
-
 nmap –script=smb2-security-mode.nse -p445 10.0.0.0/8
 
 ##Step 2 Save targets to file
 
 nano targets.txt
+
 Paste IP addresses to the file
+
 Save File
+
 <img width="940" height="506" alt="image" src="https://github.com/user-attachments/assets/7b0f4364-ae4b-41cb-8737-00e78b5cedbd" />
 
 ##Step 3 
