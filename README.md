@@ -2,7 +2,7 @@
 
 ## Attacks
 
-- [Responder](Attacks/Responder/README.md)
+- [Responder](Attacks/Responder/)
 - [Kerberoasting](Attacks/Kerberoasting/README.md)
 - [BloodHound](Attacks/BloodHound/README.md)
 
